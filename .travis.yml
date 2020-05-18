@@ -1,4 +1,3 @@
-# give travis super user perms
 sudo: required
 
 services:
